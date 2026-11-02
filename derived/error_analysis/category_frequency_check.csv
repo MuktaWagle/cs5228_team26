@@ -1,0 +1,98 @@
+Feature,Category,Train_rows,Validation_rows,Unseen_in_train
+TOWN,jurong west,8015,2467,False
+TOWN,sengkang,7441,2332,False
+TOWN,tampines,7684,2258,False
+TOWN,bedok,6826,2081,False
+TOWN,bukit merah,6254,2016,False
+TOWN,ang mo kio,6344,1939,False
+TOWN,yishun,6100,1813,False
+TOWN,woodlands,5825,1752,False
+TOWN,hougang,5474,1641,False
+TOWN,punggol,5062,1606,False
+TOWN,queenstown,4610,1490,False
+TOWN,bukit batok,4211,1394,False
+TOWN,toa payoh,4601,1387,False
+TOWN,kallang/whampoa,4324,1365,False
+TOWN,clementi,4036,1269,False
+TOWN,choa chu kang,4053,1247,False
+TOWN,geylang,3460,1024,False
+TOWN,jurong east,3077,947,False
+TOWN,pasir ris,3183,906,False
+TOWN,sembawang,2697,856,False
+TOWN,bukit panjang,2895,822,False
+TOWN,serangoon,2608,790,False
+TOWN,bishan,2546,760,False
+TOWN,central,1743,535,False
+TOWN,marine parade,1269,368,False
+TOWN,bukit timah,345,93,False
+FLAT_TYPE,4-room,41219,12851,False
+FLAT_TYPE,3-room,37264,11611,False
+FLAT_TYPE,5-room,27560,7963,False
+FLAT_TYPE,executive,6456,1778,False
+FLAT_TYPE,2-room,2156,941,False
+FLAT_TYPE,1-room,28,14,False
+FLAT_MODEL,model a,32320,10425,False
+FLAT_MODEL,improved,33990,10018,False
+FLAT_MODEL,new generation,20883,6373,False
+FLAT_MODEL,premium apartment,9419,2893,False
+FLAT_MODEL,simplified,5227,1567,False
+FLAT_MODEL,standard,4525,1343,False
+FLAT_MODEL,apartment,3714,1010,False
+FLAT_MODEL,maisonette,1831,515,False
+FLAT_MODEL,model a2,1190,363,False
+FLAT_MODEL,dbss,805,285,False
+FLAT_MODEL,2 room,95,129,False
+FLAT_MODEL,type s1,215,84,False
+FLAT_MODEL,adjoined flat,171,47,False
+FLAT_MODEL,type s2,117,43,False
+FLAT_MODEL,model a maisonette,109,31,False
+FLAT_MODEL,premium apartment loft,35,16,False
+FLAT_MODEL,terrace,11,8,False
+FLAT_MODEL,3gen,7,5,False
+FLAT_MODEL,premium maisonette,19,2,False
+FLAT_MODEL,improved maisonette,0,1,True
+HDB_PLANNING_AREA,jurong west,8015,2467,False
+HDB_PLANNING_AREA,sengkang,7441,2332,False
+HDB_PLANNING_AREA,tampines,7684,2258,False
+HDB_PLANNING_AREA,bedok,6826,2081,False
+HDB_PLANNING_AREA,bukit merah,6254,2016,False
+HDB_PLANNING_AREA,ang mo kio,6344,1939,False
+HDB_PLANNING_AREA,yishun,6100,1813,False
+HDB_PLANNING_AREA,woodlands,5825,1752,False
+HDB_PLANNING_AREA,hougang,5466,1637,False
+HDB_PLANNING_AREA,punggol,5062,1606,False
+HDB_PLANNING_AREA,queenstown,4515,1458,False
+HDB_PLANNING_AREA,bukit batok,4211,1394,False
+HDB_PLANNING_AREA,toa payoh,4601,1387,False
+HDB_PLANNING_AREA,clementi,4036,1269,False
+HDB_PLANNING_AREA,choa chu kang,4053,1247,False
+HDB_PLANNING_AREA,kallang,3428,1070,False
+HDB_PLANNING_AREA,geylang,3460,1024,False
+HDB_PLANNING_AREA,jurong east,3077,947,False
+HDB_PLANNING_AREA,pasir ris,3140,892,False
+HDB_PLANNING_AREA,sembawang,2697,856,False
+HDB_PLANNING_AREA,bukit panjang,2895,822,False
+HDB_PLANNING_AREA,serangoon,2616,794,False
+HDB_PLANNING_AREA,bishan,2546,760,False
+HDB_PLANNING_AREA,marine parade,1269,368,False
+HDB_PLANNING_AREA,outram,1051,340,False
+HDB_PLANNING_AREA,novena,871,283,False
+HDB_PLANNING_AREA,rochor,648,185,False
+HDB_PLANNING_AREA,bukit timah,437,129,False
+HDB_PLANNING_AREA,changi,43,14,False
+HDB_PLANNING_AREA,downtown core,49,12,False
+HDB_PLANNING_AREA,tanglin,23,6,False
+APPROVAL_YEAR,2024,9005,26234,False
+APPROVAL_YEAR,2025,0,8924,True
+APPROVAL_MONTH,7,9013,3245,False
+APPROVAL_MONTH,4,8588,3146,False
+APPROVAL_MONTH,3,13298,3032,False
+APPROVAL_MONTH,2,10902,3022,False
+APPROVAL_MONTH,5,9323,3017,False
+APPROVAL_MONTH,6,9018,3011,False
+APPROVAL_MONTH,12,8841,2896,False
+APPROVAL_MONTH,1,12177,2870,False
+APPROVAL_MONTH,8,8437,2833,False
+APPROVAL_MONTH,11,8335,2715,False
+APPROVAL_MONTH,9,8087,2708,False
+APPROVAL_MONTH,10,8664,2663,False
