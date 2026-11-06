@@ -4,6 +4,7 @@ This directory contains intermediate and final datasets produced from the origin
 
 ## Files
 
+- [`flaml_tuning/best_parameters.json`](flaml_tuning/best_parameters.json) records the selected Ridge, Random Forest, CatBoost, and LightGBM hyperparameters, including the final tree counts. `Boosting_experiments.ipynb` reads its LightGBM settings from this file.
 - `train_location_enriched.csv` and `test_location_enriched.csv` are produced by `Add_location_features.ipynb`. They add HDB location attributes and distances to nearby MRT stations, schools, and shopping malls.
 - `train_cleaned_enriched.csv` and `test_cleaned_enriched.csv` are produced by `Data_cleaning.ipynb`. They contain the cleaned feature set used by `Models_main.ipynb`, `Boosting_experiments.ipynb`, and `Error_analysis.ipynb`.
 

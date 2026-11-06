@@ -29,6 +29,8 @@ The validation split is time-based to mimic forecasting future rents: rows from 
 
 ## Main outputs
 
+The models use tuned hyperparameters: Ridge `alpha=0.0001`, Random Forest 189 trees with depth 14, CatBoost 1,094 trees with depth 7, and LightGBM 449 trees with 32 leaves. Full settings are saved in [`best_parameters.json`](derived/flaml_tuning/best_parameters.json); the boosting notebook loads LightGBM's settings directly without rerunning the search.
+
 The modeling notebooks write prediction files to `predictions/`, including Ridge, Random Forest, CatBoost, and the CatBoost/LightGBM blend. The blend notebook writes `predictions/catboost_lightgbm_blend_submission.csv`. The ablation and error-analysis notebooks also export summary tables under `derived/error_analysis/` and figures under `plots/`.
 
 ## Environment
