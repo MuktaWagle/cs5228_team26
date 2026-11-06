@@ -1,0 +1,17 @@
+{
+  "Ridge": {
+    "alpha": 0.0001
+  },
+  "Random Forest": {
+    "n_estimators": 189,
+    "max_depth": 14,
+    "min_samples_leaf": 8,
+    "max_features": 0.8193776787903664
+  },
+  "CatBoost": {
+    "iterations": 1094,
+    "depth": 7,
+    "learning_rate": 0.0718104404496359,
+    "l2_leaf_reg": 10.104124680450155
+  }
+}

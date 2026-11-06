@@ -23,6 +23,7 @@ efficient_apriori==2.0.6
 executing==2.2.1
 fastjsonschema==2.22.2
 filelock==3.32.4
+flaml==2.8.0
 fonttools==4.63.0
 fqdn==1.5.1
 fsspec==2026.7.0

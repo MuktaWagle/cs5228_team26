@@ -1,0 +1,4 @@
+partition,rows,date_min,date_max,target_available
+train,114683,2021-01-01,2024-03-01,True
+validation,35158,2024-04-01,2025-03-01,True
+test,50000,2025-03-01,2026-07-01,False

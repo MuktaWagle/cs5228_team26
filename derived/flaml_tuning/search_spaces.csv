@@ -1,0 +1,10 @@
+model,hyperparameter,search_range
+Ridge,alpha,"log-uniform [0.0001, 100000]"
+Random Forest,n_estimators,integer 80–400
+Random Forest,max_depth,integer 8–30
+Random Forest,min_samples_leaf,integer 1–20
+Random Forest,max_features,"uniform [0.3, 1.0]"
+CatBoost,iterations,integer 500–2500; early stopping patience 100
+CatBoost,depth,integer 4–8
+CatBoost,learning_rate,"log-uniform [0.015, 0.15]"
+CatBoost,l2_leaf_reg,"log-uniform [1, 30]"
