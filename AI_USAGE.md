@@ -1,6 +1,6 @@
 # AI usage
 
-We used GPT Luna 5.6 Medium as an AI-assisted coding and research tool during this project.
+We used GPT Luna 5.6 Medium as an AI-assisted coding tool during this project.
 
 AI assistance was used to help drafting code, identify suitable Python libraries, modules, classes, and functions, and troubleshoot implementation issues. It was also used to help structure the documentation.
 
